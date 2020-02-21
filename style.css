@@ -1,0 +1,19 @@
+body{
+    font-family:Roboto Mono;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color:Blue;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+}
